@@ -1,173 +1,196 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win the Peace of Mind Package - $1,000 Value",
+    "navBrandLogoText": "Gino Saullo",
+    "privacyPolicyLink": "https://www.royallepage.ca/en/realestate/privacy-policy/"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
+    "heroSubheadline": "Get free planning calls with a lawyer, a money pro, a mortgage broker, and a senior move manager. Plus $200 for moving costs and a $200 dinner at Spencer’s. Halton + Hamilton only. Ends Mar 22, 2026.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/p9p2fk8c3hrmw0cwanc8qmjdpw.jpg",
+    "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
+    "endDate": "2026-03-23T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Family Now!",
+    "name": "Peace Of Mind Package",
+    "successModalHeaderText": "You’re In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Peace of Mind Package</strong> is in. We will draw on March 22, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
+    "successModalEmailPrompt": "Watch your inbox and follow @ginosaullo for the winner post."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#000000",
+      "#FFFFFF",
+      "#C7A008"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "#C7A008",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the Peace of Mind Package is in. We will draw on March 22, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
+    "socialPromptText": "Watch your inbox and follow @ginosaullo for the winner post."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/1we2npx5h5rmr0cwancbc3np64.jpg",
+        "alt": "Adult child and senior parent reviewing a simple move plan at a kitchen table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tketkj30t5rmt0cwancsge93mg.jpg",
+        "alt": "Trusted local pros giving calm advice for downsizing"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/mwmyc4r995rmw0cwand8c16ehw.jpg",
+        "alt": "Moving boxes and labels ready for a smooth transition"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/b600gcmng5rmt0cwand826vgfc.jpg",
+        "alt": "Couple enjoying dinner at Spencer’s at the Waterfront"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-gavel",
+        "text": "Free planning chat with an estate lawyer"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-piggy-bank",
+        "text": "Free planning chat with a financial planner"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-file-signature",
+        "text": "Free planning chat with a mortgage broker"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-boxes",
+        "text": "Free planning chat with a senior move manager"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-truck",
+        "text": "$200 moving expense credit (supplies, storage, movers)"
+      },
+      {
+        "icon": "fas fa-utensils",
+        "text": "$200 Spencer’s at the Waterfront gift card"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Peace of Mind Package",
+    "value": "$1,000 Value",
+    "description": "Big changes are hard. So many steps. So many questions. This prize brings calm. You get a simple plan. You meet trusted local pros. You know what to do next. We also cover some moving costs. And we treat the Gen-X helper to dinner. Take a breath. We have you.",
+    "limitedTimeOfferText": "Limited Local Giveaway — Ends March 22, 2026",
+    "ctaButtonText": "I Want Peace of Mind!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Form",
+        "description": "Add your name, email, and city. Takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-clipboard-check",
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us your timeline and main need."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered",
+        "description": "We draw on Mar 22, 2026 and contact the winner."
       }
     ],
     "highlights": [
       {
-        "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
-      },
-      {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Halton + Hamilton residents"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-user-check",
+        "text": "One entry per person"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-clock",
+        "text": "Winner must reply in 48 hours"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "Not sponsored by Instagram/Facebook"
       }
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Adults 18+ who live in Halton Region or Hamilton. One entry per person. No purchase needed."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What is the prize?",
+        "a": "Free planning calls with an estate lawyer, a financial planner, a mortgage broker, and a senior move manager. Plus a $200 moving credit and a $200 Spencer’s gift card."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "How do I get the $200 moving credit?",
+        "a": "We e-transfer or reimburse you with a receipt for moving supplies, storage, or movers."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Does the prize have cash value?",
+        "a": "No cash value. It cannot be exchanged."
+      },
+      {
+        "q": "Do I need to sell or move now?",
+        "a": "No. You can be planning. The pros will help you set a smart timeline."
+      },
+      {
+        "q": "Are the pros trusted?",
+        "a": "Yes. Local, experienced, and referred by our team."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Use the email you check daily",
+      "Double-check spelling before you submit",
+      "Follow @ginosaullo on Instagram and Facebook for the winner post",
+      "Share this with a friend who is helping a parent"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random",
+      "text": "We use a random number tool. Every entry has the same chance. No tricks."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Watch Your Inbox",
+      "text": "We will email or DM the winner on Mar 22, 2026. Please reply in 48 hours. If no reply, we pick a new winner."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-214.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-214.netlify.app&text=Win%20the%20Peace%20of%20Mind%20Package%20-%20%241%2C000%20Value"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for a chance to win this family support package!",
+    "entryCountText": "Families in Halton and Hamilton are entering now. Join them today!",
+    "socialSharePrompt": "Know a family who needs this? Share this now:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -189,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -197,8 +220,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -211,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,45 +256,33 @@ const config = {
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/AgentGinoSaullo",
+      "instagram": "https://www.instagram.com/ginosaullo"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Gino Saullo",
+      "title": "REALTOR",
+      "phone": "9053308961",
+      "email": "ginosaullo@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Gino Saullo at Royal LePage Real Estate Services Ltd., Brokerage and is not affiliated with Peace Of Mind Package, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-22 at 11:59 PM ET. Winner selected at random on 2026-03-22. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770153863019-RoyalLepage-real-estate-services-logo_1G2P1zM.svg",
+    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770153863019-RoyalLepage-real-estate-services-logo_1G2P1zM.svg",
+    "secondaryLogoAlt": "Gino Saullo",
+    "organizerName": "Gino Saullo",
+    "brokerageName": "Royal LePage Real Estate Services Ltd., Brokerage",
+    "address": "231 Oak Park Boulevard, 400, Oakville, ON, L6H 7S8, Canada",
+    "email": "ginosaullo@gmail.com",
+    "phone": "9053308961",
+    "copyrightOwner": "Gino Saullo"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-214",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-214",
+    "netlifyUrl": "http://Giveaway-214.netlify.app",
+    "netlifyId": "1156819101",
+    "tag": "Peace of Mind Package"
   }
 };
