@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
     "heroSubheadline": "Get free planning calls with a lawyer, a money pro, a mortgage broker, and a senior move manager. Plus $200 for moving costs and a $200 dinner at Spencer’s. Halton + Hamilton only. Ends Mar 22, 2026.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/p9p2fk8c3hrmw0cwanc8qmjdpw.jpg",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-familydinnerinrestaurant2.jpg",
     "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
     "endDate": "2026-03-23T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#C7A008",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Peace of Mind Package is in. We will draw on March 22, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
-    "socialPromptText": "Watch your inbox and follow @ginosaullo for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -136,8 +131,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -170,6 +163,8 @@ const config = {
       "Follow @ginosaullo on Instagram and Facebook for the winner post",
       "Share this with a friend who is helping a parent"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random",
       "text": "We use a random number tool. Every entry has the same chance. No tricks."
@@ -190,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1771440142602_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -212,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1771440142602_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -234,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1771440142602_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -256,6 +251,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the Peace of Mind Package is in. We will draw on March 22, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
+    "socialPromptText": "Watch your inbox and follow @ginosaullo for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/AgentGinoSaullo",
