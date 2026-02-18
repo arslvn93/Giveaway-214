@@ -88,9 +88,9 @@ const config = {
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill the Form",
-        "description": "Add your name, email, and city. Takes 30 seconds."
+        "icon": "fab fa-instagram",
+        "title": "Follow me on Instagram",
+        "description": "Follow me @ginosaullo."
       },
       {
         "icon": "fas fa-clipboard-check",
@@ -185,68 +185,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771440279236_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1771440505363_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1771440279236_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1771440505363_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1 - 2 years",
-          "text": "Yes, in the next 1 - 2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
         }
       ]
     },
     {
-      "id": "q_auto_1771440279236_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1771440505363_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
         }
       ]
     }
@@ -265,7 +265,7 @@ const config = {
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/AgentGinoSaullo",
+      "facebook": "",
       "instagram": "https://www.instagram.com/ginosaullo"
     },
     "agentContact": {
@@ -275,7 +275,7 @@ const config = {
       "email": "ginosaullo@gmail.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Gino Saullo at Royal LePage Real Estate Services Ltd., Brokerage and is not affiliated with Peace Of Mind Package, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-22 at 11:59 PM ET. Winner selected at random on 2026-03-22. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
-    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770153863019-RoyalLepage-real-estate-services-logo_1G2P1zM.svg",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ginosaullo.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770153863019-RoyalLepage-real-estate-services-logo_1G2P1zM.svg",
     "secondaryLogoAlt": "Gino Saullo",
     "organizerName": "Gino Saullo",
