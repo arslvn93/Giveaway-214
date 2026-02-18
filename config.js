@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
     "heroSubheadline": "Get free planning calls with a lawyer, a money pro, a mortgage broker, and a senior move manager. Plus $200 for moving costs and a $200 dinner at Spencer’s. Halton + Hamilton only. Ends Mar 22, 2026.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-familydinnerinrestaurant2.jpg",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
     "endDate": "2026-03-23T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771440142602_0",
+      "id": "q_auto_1771440210331_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771440142602_1",
+      "id": "q_auto_1771440210331_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771440142602_2",
+      "id": "q_auto_1771440210331_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
