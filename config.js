@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771440505363_0",
+      "id": "q_auto_1771440637871_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771440505363_1",
+      "id": "q_auto_1771440637871_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771440505363_2",
+      "id": "q_auto_1771440637871_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -259,9 +259,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the Peace of Mind Package is in. We will draw on March 22, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
-    "socialPromptText": "Watch your inbox and follow @ginosaullo for the winner post."
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Peace of Mind Package Giveaway has been received. Complete your entry below to be eligible for the Mar 22 draw.\n\n",
+    "socialPromptText": "Follow me @ginosaullo on Instagram to complete your entry - only followers are eligible\n\n"
   },
   "footerContact": {
     "social": {
