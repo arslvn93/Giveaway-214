@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
-    "heroSubheadline": "Helping a parent downsize or transition is one of the most overwhelming things a family navigates. The decisions, the logistics, the constant question of who do you even trust? This package was created to answer that. One winning Halton or Hamilton family receives everything they need to move forward with clarity and confidence. Draw March 22, 2026.",
+    "heroSubheadline": "Helping a parent downsize or transition is overwhelming. This package gives one Halton or Hamilton family estate, financial, and mortgage planning consults, a $200 senior move manager credit, and a $200 Spencer’s dinner. Draw March 22, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
     "endDate": "2026-03-23T03:59:00.000Z",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772116323710_0",
+      "id": "q_auto_1772145549293_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772116323710_1",
+      "id": "q_auto_1772145549293_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772116323711_2",
+      "id": "q_auto_1772145549293_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
