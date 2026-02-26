@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
-    "heroSubheadline": "Get free planning calls with a lawyer, a money pro, a mortgage broker, and a senior move manager. Plus $200 for moving costs and a $200 dinner at Spencer’s. Halton + Hamilton only. Ends Mar 22, 2026.",
+    "heroSubheadline": "Helping a parent downsize or transition is one of the most overwhelming things a family navigates. The decisions, the logistics, the constant question of who do you even trust? This package was created to answer that. One winning Halton or Hamilton family receives everything they need to move forward with clarity and confidence. Draw March 22, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
     "endDate": "2026-03-23T03:59:00.000Z",
@@ -72,7 +72,7 @@ const config = {
       },
       {
         "icon": "fas fa-truck",
-        "text": "$200 moving expense credit (supplies, storage, movers)"
+        "text": "$200 senior move manager and life organizer credit"
       },
       {
         "icon": "fas fa-utensils",
@@ -80,8 +80,8 @@ const config = {
       }
     ],
     "name": "Peace of Mind Package",
-    "value": "$1,000 Value",
-    "description": "Big changes are hard. So many steps. So many questions. This prize brings calm. You get a simple plan. You meet trusted local pros. You know what to do next. We also cover some moving costs. And we treat the Gen-X helper to dinner. Take a breath. We have you.",
+    "value": "$400 Value",
+    "description": "Big changes are hard. So many steps. So many questions. That's why this package starts with a professional senior move manager and life organizer - someone who comes in and helps your family sort through it all. Add complimentary consultations with an estate lawyer, financial planner, and mortgage broker, and suddenly you have a real plan. We're also including a $200 Spencer's at the Waterfront gift card, because the adult child managing everything deserves a proper night out. Take a breath. We have you.",
     "limitedTimeOfferText": "Limited Local Giveaway — Ends March 22, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
@@ -138,7 +138,7 @@ const config = {
       },
       {
         "q": "What is the prize?",
-        "a": "Free planning calls with an estate lawyer, a financial planner, a mortgage broker, and a senior move manager. Plus a $200 moving credit and a $200 Spencer’s gift card."
+        "a": "A $200 credit toward a professional senior move manager and life organizer, $200 gift card at Spencer's at the Waterfront, and complimentary consultations with an estate lawyer, a financial planner, and a mortgage broker, plus a"
       },
       {
         "q": "How do I get the $200 moving credit?",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771440637871_0",
+      "id": "q_auto_1772116323710_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771440637871_1",
+      "id": "q_auto_1772116323710_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771440637871_2",
+      "id": "q_auto_1772116323711_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
