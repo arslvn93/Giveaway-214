@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
-    "heroSubheadline": "Helping a parent downsize or transition is overwhelming. This package gives one Halton or Hamilton family estate, financial, and mortgage planning consults, a $200 senior move manager credit, and a $200 Spencer’s dinner. Draw March 22, 2026.",
+    "heroSubheadline": "Helping a parent downsize or transition is overwhelming. This package gives one Halton or Hamilton family access to estate, financial, and mortgage planning consults, a $200 senior move manager credit, and a $200 Spencer’s dinner. Draw March 22, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
     "endDate": "2026-03-23T03:59:00.000Z",
@@ -81,7 +81,7 @@ const config = {
     ],
     "name": "Peace of Mind Package",
     "value": "$400 Value",
-    "description": "Big changes are hard. So many steps. So many questions. That's why this package starts with a professional senior move manager and life organizer - someone who comes in and helps your family sort through it all. Add complimentary consultations with an estate lawyer, financial planner, and mortgage broker, and suddenly you have a real plan. We're also including a $200 Spencer's at the Waterfront gift card, because the adult child managing everything deserves a proper night out. Take a breath. We have you.",
+    "description": "Big changes come with a lot of moving parts. Conversations. Paperwork. Timelines. Emotional weight.\n\nThat’s why this package includes a professional senior move manager and life organizer to help your family sort through belongings, decisions, and next steps with structure and care.\n\nYou’ll also receive complimentary consultations with an estate lawyer, financial planner, and mortgage broker, so the legal and financial pieces are clear before anything is finalized.\n\nAnd because the adult child often carries the coordination, we’ve included a $200 Spencer’s at the Waterfront gift card for a proper night out.\n\nClarity. Structure. Support.\n\nSo your family can move forward with confidence, not crisis.",
     "limitedTimeOfferText": "Limited Local Giveaway — Ends March 22, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772145549293_0",
+      "id": "q_auto_1772145754558_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772145549293_1",
+      "id": "q_auto_1772145754559_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772145549293_2",
+      "id": "q_auto_1772145754559_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
