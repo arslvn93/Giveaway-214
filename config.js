@@ -138,11 +138,7 @@ const config = {
       },
       {
         "q": "What is the prize?",
-        "a": "A $200 credit toward a professional senior move manager and life organizer, $200 gift card at Spencer's at the Waterfront, and complimentary consultations with an estate lawyer, a financial planner, and a mortgage broker, plus a"
-      },
-      {
-        "q": "How do I get the $200 moving credit?",
-        "a": "We e-transfer or reimburse you with a receipt for moving supplies, storage, or movers."
+        "a": "A $200 credit toward a professional senior move manager and life organizer, $200 gift card at Spencer's at the Waterfront, and plus complimentary consultations with an estate lawyer, a financial planner, and a mortgage broker."
       },
       {
         "q": "Does the prize have cash value?",
@@ -185,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772145789756_0",
+      "id": "q_auto_1772145921751_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772145789756_1",
+      "id": "q_auto_1772145921751_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772145789756_2",
+      "id": "q_auto_1772145921751_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
