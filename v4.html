@@ -520,9 +520,20 @@
                 document.getElementById('socialPrompt').innerText = config.entryForm.socialSharePrompt;
                 
                 if(config.entryForm.sharePlatforms) {
+                    const shareUrl = 'https://214.giveaway.bz/v4';
+                    const shareText = encodeURIComponent(config.giveaway?.name ? `Check out the ${config.giveaway.name} giveaway!` : "Check out this awesome giveaway!");
+                    const shareMessage = config.giveaway?.name ? `Check out the ${config.giveaway.name} giveaway!` : "Check out this awesome giveaway!";
+                    const platformIcons = { facebook: 'fab fa-facebook-f', instagram: 'fab fa-instagram', twitter: 'fab fa-twitter', pinterest: 'fab fa-pinterest-p', linkedin: 'fab fa-linkedin', whatsapp: 'fab fa-whatsapp' };
                     let html = '';
                     for(const [k,v] of Object.entries(config.entryForm.sharePlatforms)) {
-                        html += `<a href="${v}" target="_blank" class="hover:text-[#D4AF37] transition-colors"><i class="fab fa-${k}"></i></a>`;
+                        let url = v;
+                        if (k === 'facebook' && url === '#') url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
+                        if (k === 'twitter' && url === '#') url = `https://twitter.com/intent/tweet?url=${encodeURIComponent(shareUrl)}&text=${shareText}`;
+                        if (k === 'linkedin' && url === '#') url = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`;
+                        if (k === 'whatsapp' && url === '#') url = `https://wa.me/?text=${encodeURIComponent(shareMessage + ' ' + shareUrl)}`;
+                        if (!url || url === '') continue;
+                        const icon = platformIcons[k] || `fab fa-${k}`;
+                        html += `<a href="${url}" target="_blank" rel="noopener noreferrer" class="hover:text-[#D4AF37] transition-colors" aria-label="${k}"><i class="${icon}"></i></a>`;
                     }
                     document.getElementById('socialIcons').innerHTML = html;
                 }

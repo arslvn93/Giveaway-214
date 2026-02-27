@@ -172,8 +172,9 @@ const config = {
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-214.netlify.app",
-      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-214.netlify.app&text=Win%20the%20Peace%20of%20Mind%20Package%20-%20%241%2C000%20Value"
+      "facebook": "#",
+      "linkedin": "#",
+      "whatsapp": "#"
     },
     "subtitle": "Enter your details below for a chance to win this family support package!",
     "entryCountText": "Families in Halton and Hamilton are entering now. Join them today!",
