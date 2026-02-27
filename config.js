@@ -81,7 +81,7 @@ const config = {
     ],
     "name": "Peace of Mind Package",
     "value": "$400 Value",
-    "description": "You’ll also receive A $200 Senior Move Manager & Life Organizer credit & a $200 Spencer’s at the Waterfront gift card so the coordinating adult children can enjoy a well-deserved night out 🕊️\n\nBecause clarity shouldn’t come at the cost of burnout.\n\nDraw April 10, 2026.",
+    "description": "Helping a parent downsize or transition can feel overwhelming 🤍\n\nBig transitions come with a lot of moving parts. Conversations. Paperwork. Timelines. Emotional weight. That’s why this package includes a professional Senior Move Manager and Life Organizer to help your family sort belongings, decisions, and next steps with structure and care. You’ll also receive complimentary consultations with an estate lawyer, financial advisor, and mortgage professional — so the legal and financial pieces are clear before anything is finalized. And because the adult child often carries the coordination, we’ve included a $200 Spencer’s at the Waterfront gift card for a proper night out. Clarity. Structure. Support. So your family can move forward with confidence — not crisis.",
     "limitedTimeOfferText": "Limited Local Giveaway — Ends April 9, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772229671478_0",
+      "id": "q_auto_1772229725070_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772229671478_1",
+      "id": "q_auto_1772229725070_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772229671478_2",
+      "id": "q_auto_1772229725070_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
