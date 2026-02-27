@@ -81,7 +81,7 @@ const config = {
     ],
     "name": "Peace of Mind Package",
     "value": "$400 Value",
-    "description": "Helping a parent downsize or transition can feel overwhelming 🤍\n\nThe Peace of Mind Package gives one Halton or Hamilton family guided support across the legal, financial, and mortgage pieces plus hands-on help sorting belongings and next steps with care.\n\nYou’ll also receive:\n• A $200 Senior Move Manager & Life Organizer credit\n• A $200 Spencer’s at the Waterfront gift card so the coordinating adult children can enjoy a well-deserved night out 🕊️\n\nBecause clarity shouldn’t come at the cost of burnout.\n\nDraw April 10, 2026.",
+    "description": "Helping a parent downsize or transition can feel overwhelming 🤍\n\nThe Peace of Mind Package gives one Halton or Hamilton family guided support across the legal, financial, and mortgage pieces plus hands-on help sorting belongings and next steps with care. You’ll also receive A $200 Senior Move Manager & Life Organizer credit & a $200 Spencer’s at the Waterfront gift card so the coordinating adult children can enjoy a well-deserved night out 🕊️\n\nBecause clarity shouldn’t come at the cost of burnout.\n\nDraw April 10, 2026.",
     "limitedTimeOfferText": "Limited Local Giveaway — Ends April 9, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772229361193_0",
+      "id": "q_auto_1772229445636_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772229361193_1",
+      "id": "q_auto_1772229445636_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772229361193_2",
+      "id": "q_auto_1772229445636_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
