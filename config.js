@@ -41,7 +41,7 @@ const config = {
         "alt": "Adult child and senior parent reviewing a simple move plan at a kitchen table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ArizonaPremireEvent(2).png",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ArizonaPremireEvent(3).png",
         "alt": "Trusted local pros giving calm advice for downsizing"
       },
       {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772211542450_0",
+      "id": "q_auto_1772211812756_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772211542450_1",
+      "id": "q_auto_1772211812756_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772211542450_2",
+      "id": "q_auto_1772211812756_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
