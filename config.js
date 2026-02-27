@@ -81,7 +81,7 @@ const config = {
     ],
     "name": "Peace of Mind Package",
     "value": "$400 Value",
-    "description": "<p>Big transitions come with a lot of moving parts – conversations, paperwork, timelines, and emotional weight.</p>\n\n<p>The <strong>Peace of Mind Package</strong> gives one Halton or Hamilton family guided support across the legal, financial, and mortgage pieces – plus <strong>$200 credit towards a Senior Move Manager & Life Organizer</strong> for some hands-on help sorting belongings and next steps with care.</p>\n\n<p>You’ll also receive a <strong>$200 Spencer’s at the Waterfront gift card</strong> so the coordinating adult children can enjoy a well-deserved night out 🕊️</p>\n\n<p><em>Because clarity shouldn’t come at the cost of burnout.</em></p>",
+    "description": "Big transitions come with a lot of moving parts – conversations, paperwork, timelines, and emotional weight.<br><br>\n\nThe <strong>Peace of Mind Package</strong> gives one Halton or Hamilton family guided support across the legal, financial, and mortgage pieces – plus <strong>$200 credit towards a Senior Move Manager & Life Organizer</strong> for some hands-on help sorting belongings and next steps with care.<br><br>\n\nYou’ll also receive a <strong>$200 Spencer’s at the Waterfront gift card</strong> so the coordinating adult children can enjoy a well-deserved night out 🕊️<br><br>\n\n<em>Because clarity shouldn’t come at the cost of burnout.</em>",
     "limitedTimeOfferText": "Limited Local Giveaway - Ends April 9, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772230462769_0",
+      "id": "q_auto_1772230664914_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772230462769_1",
+      "id": "q_auto_1772230664914_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772230462770_2",
+      "id": "q_auto_1772230664914_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
