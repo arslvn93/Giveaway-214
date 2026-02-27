@@ -6,15 +6,15 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
-    "heroSubheadline": "Helping a parent downsize or transition is overwhelming. This package gives one Halton or Hamilton family access to estate, financial, and mortgage planning consults, a $200 senior move manager credit, and a $200 Spencer’s dinner. Draw March 22, 2026.",
+    "heroSubheadline": "Helping a parent downsize or transition is overwhelming. This package gives one Halton or Hamilton family access to estate, financial, and mortgage planning consults, a $200 senior move manager credit, and a $200 Spencer’s dinner. Draw April 10, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
-    "promotionDates": "Enter Feb 20, 2026 to Mar 22, 2026. Winner drawn Mar 22, 2026.",
-    "endDate": "2026-03-23T03:59:00.000Z",
+    "promotionDates": "Enter March 1, 2026 to April 9, 2026. Winner drawn April 10, 2026.",
+    "endDate": "2026-04-11T02:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now!",
     "name": "Peace Of Mind Package",
     "successModalHeaderText": "You’re In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Peace of Mind Package</strong> is in. We will draw on March 22, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
+    "successModalMainMessage": "Your entry for the <strong>Peace of Mind Package</strong> is in. We will draw on April 10, 2026 and contact the winner by email or DM. Please reply within 48 hours. Good luck, and thank you for caring for your family.",
     "successModalEmailPrompt": "Watch your inbox and follow @ginosaullo for the winner post."
   },
   "settings": {
@@ -82,7 +82,7 @@ const config = {
     "name": "Peace of Mind Package",
     "value": "$400 Value",
     "description": "Big changes come with a lot of moving parts. Conversations. Paperwork. Timelines. Emotional weight.\n\nThat’s why this package includes a professional senior move manager and life organizer to help your family sort through belongings, decisions, and next steps with structure and care.\n\nYou’ll also receive complimentary consultations with an estate lawyer, financial planner, and mortgage broker, so the legal and financial pieces are clear before anything is finalized.\n\nAnd because the adult child often carries the coordination, we’ve included a $200 Spencer’s at the Waterfront gift card for a proper night out.\n\nClarity. Structure. Support.\n\nSo your family can move forward with confidence, not crisis.",
-    "limitedTimeOfferText": "Limited Local Giveaway — Ends March 22, 2026",
+    "limitedTimeOfferText": "Limited Local Giveaway — Ends April 9, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
   "howToEnter": {
@@ -100,7 +100,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered",
-        "description": "We draw on Mar 22, 2026 and contact the winner."
+        "description": "We draw on April 10, 2026 and contact the winner."
       }
     ],
     "highlights": [
@@ -167,7 +167,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Watch Your Inbox",
-      "text": "We will email or DM the winner on Mar 22, 2026. Please reply in 48 hours. If no reply, we pick a new winner."
+      "text": "We will email or DM the winner on April 10, 2026. Please reply in 48 hours. If no reply, we pick a new winner."
     }
   },
   "entryForm": {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772145921751_0",
+      "id": "q_auto_1772204802269_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772145921751_1",
+      "id": "q_auto_1772204802269_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772145921751_2",
+      "id": "q_auto_1772204802269_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -256,7 +256,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the Peace of Mind Package Giveaway has been received. Complete your entry below to be eligible for the Mar 22 draw.\n\n",
+    "mainMessage": "Your information for the Peace of Mind Package Giveaway has been received. Complete your entry below to be eligible for the April 10 draw.\n\n",
     "socialPromptText": "Follow me @ginosaullo on Instagram to complete your entry - only followers are eligible\n\n"
   },
   "footerContact": {
@@ -270,7 +270,7 @@ const config = {
       "phone": "9053308961",
       "email": "ginosaullo@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Gino Saullo at Royal LePage Real Estate Services Ltd., Brokerage and is not affiliated with Peace Of Mind Package, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-22 at 11:59 PM ET. Winner selected at random on 2026-03-22. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Gino Saullo at Royal LePage Real Estate Services Ltd., Brokerage and is not affiliated with Peace Of Mind Package, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-04-09 at 11:59 PM ET. Winner selected at random on 2026-04-10. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ginosaullo.jpg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1770153863019-RoyalLepage-real-estate-services-logo_1G2P1zM.svg",
     "secondaryLogoAlt": "Gino Saullo",
