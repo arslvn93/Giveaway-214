@@ -1,12 +1,12 @@
 const config = {
   "meta": {
-    "pageTitle": "Win the Peace of Mind Package - $1,000 Value",
+    "pageTitle": "Win the Peace of Mind Package",
     "navBrandLogoText": "Gino Saullo",
     "privacyPolicyLink": "https://www.royallepage.ca/en/realestate/privacy-policy/"
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
-    "heroSubheadline": "Helping a parent downsize or transition can feel overwhelming 🤍\n\nThe Peace of Mind Package gives one Halton or Hamilton family guided support across the legal, financial, and mortgage pieces - plus hands-on help sorting belongings and next steps with care.\n\nYou’ll also receive:\n• A $200 Senior Move Manager & Life Organizer credit\n• A $200 Spencer’s at the Waterfront gift card so the coordinating adult children can enjoy a well-deserved night out 🕊️\n\nBecause clarity shouldn’t come at the cost of burnout.\n\nDraw April 10, 2026.",
+    "heroSubheadline": "",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter March 1, 2026 to April 9, 2026. Winner drawn April 10, 2026.",
     "endDate": "2026-04-11T02:59:00.000Z",
@@ -81,7 +81,7 @@ const config = {
     ],
     "name": "Peace of Mind Package",
     "value": "$400 Value",
-    "description": "Big transitions come with a lot of moving parts.\n\nConversations. Paperwork. Timelines. Emotional weight.\n\nThat’s why this package includes a professional Senior Move Manager and Life Organizer to help your family sort belongings, decisions, and next steps with structure and care.\n\nYou’ll also receive complimentary consultations with an estate lawyer, financial advisor, and mortgage professional — so the legal and financial pieces are clear before anything is finalized.\n\nAnd because the adult child often carries the coordination, we’ve included a $200 Spencer’s at the Waterfront gift card for a proper night out.\n\nClarity. Structure. Support.\n\nSo your family can move forward with confidence — not crisis.",
+    "description": "Helping a parent downsize or transition can feel overwhelming 🤍\n\nThe Peace of Mind Package gives one Halton or Hamilton family guided support across the legal, financial, and mortgage pieces plus hands-on help sorting belongings and next steps with care.\n\nYou’ll also receive:\n• A $200 Senior Move Manager & Life Organizer credit\n• A $200 Spencer’s at the Waterfront gift card so the coordinating adult children can enjoy a well-deserved night out 🕊️\n\nBecause clarity shouldn’t come at the cost of burnout.\n\nDraw April 10, 2026.",
     "limitedTimeOfferText": "Limited Local Giveaway — Ends April 9, 2026",
     "ctaButtonText": "I Want Peace of Mind!"
   },
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772211812756_0",
+      "id": "q_auto_1772229361193_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772211812756_1",
+      "id": "q_auto_1772229361193_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772211812756_2",
+      "id": "q_auto_1772229361193_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
