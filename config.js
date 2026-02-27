@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>$1,000 Package</span>!",
-    "heroSubheadline": "This $400 value giveaway provides coordinated professional support for one local Halton or Hamilton family. Clear next steps across estate, financial, and mortgage planning. Plus hands-on organization support and a well-deserved dinner out for the coordinating adult children.\n\nDraw April 10, 2026.",
+    "heroSubheadline": "Helping a parent downsize or transition can feel overwhelming 🤍  \n\nThis $400 value giveaway provides coordinated professional support for one local Halton or Hamilton family. Clear next steps across estate, financial, and mortgage planning. Plus hands-on organization support and a well-deserved dinner out for the coordinating adult children.\n\nDraw April 10, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter March 1, 2026 to April 9, 2026. Winner drawn April 10, 2026.",
     "endDate": "2026-04-11T02:59:00.000Z",
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772229990687_0",
+      "id": "q_auto_1772230048309_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772229990687_1",
+      "id": "q_auto_1772230048309_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772229990687_2",
+      "id": "q_auto_1772230048309_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
