@@ -5,7 +5,7 @@ const config = {
     "privacyPolicyLink": "https://www.royallepage.ca/en/realestate/privacy-policy/"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move — <span class='highlight'>!",
+    "heroHeadline": "Win <span class='highlight'>Trusted Help</span> for Your Parent’s Move<span class='highlight'>!",
     "heroSubheadline": "Helping a parent downsize or transition can feel overwhelming 🤍  \n\nThis $400 giveaway provides coordinated professional support for one local Halton or Hamilton family. Clear next steps across estate, financial, and mortgage planning. Plus hands-on organization support and a well-deserved dinner out for the coordinating adult children.\n\nDraw April 10, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-ChatGPTImage2026.febr.18.19_24_24.png",
     "promotionDates": "Enter March 1, 2026 to April 9, 2026. Winner drawn April 10, 2026.",
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773167496571_0",
+      "id": "q_auto_1773167558829_0",
       "questionText": "Which situation best describes your family right now?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773167496571_1",
+      "id": "q_auto_1773167558829_1",
       "questionText": "What type of transition might your family be considering?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773167496571_2",
+      "id": "q_auto_1773167558829_2",
       "questionText": "If a move or transition were to happen, when might that realistically be?",
       "options": [
         {
