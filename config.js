@@ -182,56 +182,60 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772474674605_0",
-      "questionText": "What's your current situation?",
+      "id": "q_auto_1773161747611_0",
+      "questionText": "Which situation best describes your family right now?",
       "options": [
         {
-          "value": "I own my home",
-          "text": "I own my home"
+          "value": "I’m helping a parent plan their next stage",
+          "text": "I’m helping a parent plan their next stage"
         },
         {
-          "value": "I rent",
-          "text": "I rent"
+          "value": "I expect I’ll be helping my parents soon",
+          "text": "I expect I’ll be helping my parents soon"
         },
         {
-          "value": "Live with family/friends",
-          "text": "Live with family/friends"
+          "value": "My family is navigating a home or life transition right now",
+          "text": "My family is navigating a home or life transition right now"
         },
         {
-          "value": "Between homes",
-          "text": "Between homes"
+          "value": "Just exploring information for now",
+          "text": "Just exploring information for now"
         }
       ]
     },
     {
-      "id": "q_auto_1772474674605_1",
-      "questionText": "What are you looking to do?",
+      "id": "q_auto_1773161747611_1",
+      "questionText": "What type of transition might your family be considering?",
       "options": [
         {
-          "value": "Buy a home",
-          "text": "Buy a home"
+          "value": "Downsizing to a smaller home or condo",
+          "text": "Downsizing to a smaller home or condo"
         },
         {
-          "value": "Sell and buy",
-          "text": "Sell and buy"
+          "value": "Moving closer to family",
+          "text": "Moving closer to family"
         },
         {
-          "value": "Rent a place",
-          "text": "Rent a place"
+          "value": "Exploring retirement or assisted living options",
+          "text": "Exploring retirement or assisted living options"
         },
         {
-          "value": "Invest in property",
-          "text": "Invest in property"
+          "value": "Selling the family home",
+          "text": "Selling the family home"
+        },
+        {
+          "value": "Not sure yet",
+          "text": "Not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1772474674605_2",
-      "questionText": "When are you planning to move?",
+      "id": "q_auto_1773161747611_2",
+      "questionText": "If a move or transition were to happen, when might that realistically be?",
       "options": [
         {
-          "value": "ASAP",
-          "text": "ASAP"
+          "value": "ASAP (within 3 months)",
+          "text": "ASAP (within 3 months)"
         },
         {
           "value": "3-6 months",
@@ -242,8 +246,12 @@ const config = {
           "text": "6-12 months"
         },
         {
-          "value": "12+ months",
-          "text": "12+ months"
+          "value": "1-2+ years",
+          "text": "1-2+ years"
+        },
+        {
+          "value": "Just gathering information for now",
+          "text": "Just gathering information for now"
         }
       ]
     }
