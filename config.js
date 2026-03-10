@@ -45,7 +45,7 @@ const config = {
         "alt": "Trusted local pros giving calm advice for downsizing"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-istockphoto-1136997491-612x612.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-istockphoto-922562154-612x612.jpg",
         "alt": "Moving boxes and labels ready for a smooth transition"
       },
       {
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773162728173_0",
+      "id": "q_auto_1773162997523_0",
       "questionText": "Which situation best describes your family right now?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773162728173_1",
+      "id": "q_auto_1773162997523_1",
       "questionText": "What type of transition might your family be considering?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773162728173_2",
+      "id": "q_auto_1773162997523_2",
       "questionText": "If a move or transition were to happen, when might that realistically be?",
       "options": [
         {
